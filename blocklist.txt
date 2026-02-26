@@ -1,2 +1,5 @@
 www.reddit.com##reddit-recent-pages
 reddit.com##[noun="games_drawer"], [noun="games_drawer"]+hr
+
+! Google AI summary
+google.com##.hdzaWe
